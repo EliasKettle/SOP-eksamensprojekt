@@ -6,4 +6,4 @@ Dette er alt ekstra materiale der er blevet brugt gennem SOP forløbet. Man kan 
 
 - "five-guess-algorithm-manual.py" er selve programmet, der bliver forklaret i rapporten.
 
-- "five-guess-algorithm-automatic.py" er den automatiseret version af programmet, hvor simulationerne blev foretaget.
+- "five-guess-algorithm-automatic.py" er den automatiserede version af programmet, hvor simulationerne blev foretaget.
