@@ -1,6 +1,6 @@
 # SOP-eksamensprojekt
 
-Dette er alt ekstra materiale der er blevet brugt gennem SOP forløbet. Man kan finde 3 filer her.
+Dette er alt ekstramateriale der er blevet udarbejdet gennem SOP forløbet. Man kan finde 3 filer her.
 
 - "5-guess-algorithm undersøgelse.xlsx" er excel filen, hvor resultaterne af 300 simulationer kan findes.
 
