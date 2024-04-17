@@ -51,7 +51,7 @@ def main():
 
         if guess_count == 10:
             print("Ikke flere gæt")
-            print("Hemmelige nummer var", secret_number)
+            print("Hemmelige kode var", secret_number)
             break
 
         remove_impossible_solutions(possible_solutions, guess, (correct_digits, misplaced_digits))
